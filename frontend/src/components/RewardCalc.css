@@ -1,0 +1,15 @@
+  
+  .centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .title-style {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .transaction{
+    width: 100%;
+  }
